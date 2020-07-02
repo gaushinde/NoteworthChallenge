@@ -21,7 +21,8 @@ update_database(){
 client (){
     echo "Run client react "
     if [ ! -d frontend/restaurants/node_modules ];then
-      cd frontend/restaurants/
+      cd frontend
+      cd restaurants
       echo "install node packages "
       npm install frontend/restaurants
     fi
