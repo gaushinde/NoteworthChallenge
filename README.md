@@ -16,6 +16,7 @@ A user able to sort the list of restaurants by Highest Rating.
 How to Run the application :
 
 Clone project using:
+https://github.com/gaushinde/NoteworthChallenge.git
 
 run initial migrations for backend:
 bin/restaurant update_database
