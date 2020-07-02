@@ -21,21 +21,28 @@ Clone project using:
 
 git clone https://github.com/gaushinde/NoteworthChallenge.git
 
-get into the cloned Directory
 
-run initial migrations for backend:
+run initial migrations for backend-
+
+open terminal in cloned Directory and run following command :
 
 bin/restaurant update_database
 
-run backend server: 
+run backend server-
+
+open new terminal in cloned Directory and run following command :
 
 bin/restaurant server
 
 run react app:
 
+open terminal in cloned Directory and run following command :
+
 bin/restaurant client
 
 perform Test :
+
+open terminal in cloned Directory and run following command :
 
 bin/restaurant tests
 
@@ -67,6 +74,10 @@ Deleting a restaurant:
 
 in the View tab ,click at the delete icon to a delete a resturant
 
+
+To sort Restaurants according to rating :
+
+click at the rating lable in view tab
 
 
 
